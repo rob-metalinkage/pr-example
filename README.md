@@ -13,7 +13,7 @@ Process:
 3. sync this branch to the upstream master (you will create a PR against)
 
 ```
-git remote add upstream https://github.com/rob-metalinkage/pr-example/tree/main
+git remote add upstream https://github.com/rob-metalinkage/pr-example.git
 git fetch upstream
 
 ```
