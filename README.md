@@ -15,7 +15,7 @@ Process:
 ```
 git remote add upstream https://github.com/rob-metalinkage/pr-example.git
 git fetch upstream
-
+git reset --hard upstream/main
 ```
 4. make changes to the specific files that you want to create a PR to accept upstream
 5. run any local testing
